@@ -7,3 +7,5 @@ Public Messaging: All messages are publicly visible, enabling open conversations
 Edit Functionality: Users can modify their messages after posting to correct or update content.
 
 Delete Functionality: Users have the option to remove their own messages entirely.
+
+This project offers an easy-to-use platform for public messaging, where users have full control over their posts.
